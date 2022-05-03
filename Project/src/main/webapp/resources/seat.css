@@ -1,0 +1,108 @@
+.navbar {
+    background:white;
+    box-shadow: 0 .5rem .5rem rgba(0,0,0,0.5);
+    font-weight: 200px;
+    padding:0;
+}
+
+body {
+  background: #B4CFEC;
+  color: black;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding-top:5rem;
+}
+
+form {
+	background:white;
+}
+
+input {
+	z-index:1;
+}
+
+input[type='checkbox']{
+  margin: 10px;
+  appearance:none;
+  box-shadow: none;
+  font-size: 2em;
+
+}
+
+input[type='submit']{
+	margin-top:6rem;
+}
+
+input:checked {
+background-color:blue;
+}
+
+.seat {
+  background-color: #444451;
+  height: 20px;
+  width: 20px;
+  margin: 3px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+.seat.selected {
+  background-color:blue;
+}
+
+.seat.occupied {
+  background-color: red;
+}
+
+.seat:not(.occupied):hover {
+  cursor: pointer;
+  transform: scale(1.2);
+}
+
+.lgd .seat:not(.occupied):hover {
+  cursor: default;
+  transform: scale(1);
+}
+
+.lgd {
+  background: rgba(0, 0, 0, 0.1);
+  padding: 5px 10px;
+  border-radius: 5px;
+  color: black;
+  display: flex;
+  justify-content: space-between;
+}
+
+.lgd li {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 10px;
+}
+
+.lgd li small {
+  margin-left: 2px;
+}
+
+.border-5 {
+	padding:5rem 15rem;
+}
+
+.seatbg {
+	position: absolute;
+    left: -16.25rem;
+    width: 32rem;
+    height: 20rem;
+    top: -29rem;
+    transform: rotate(-1.2deg);
+}
+
+p .text {
+  margin: 5px 0;
+}
+
+span {
+  color:blue;
+}

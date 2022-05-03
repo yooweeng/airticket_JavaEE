@@ -1,0 +1,85 @@
+.navbar {
+	background:#fff;
+	font-weight: 200;
+	box-shadow: 0 .5rem .5rem rgba(0,0,0,0.5);
+	padding:0;
+}
+
+.feature1{
+	margin-top:7rem;
+	margin-bottom:2rem;
+}
+
+body
+{
+	background: #B4CFEC;
+}
+
+.map {
+    width: 550px;
+    height: 550px;
+    border:0;
+    margin-top: 80px;
+    margin-left: 50px;
+    box-shadow: 0 .5rem .5rem rgba(0,0,0,0.5);
+}
+
+#error_message{
+    margin-bottom: 20px;
+    background: #fa3243;
+    padding: 0px;
+    text-align: center;
+    font-size: 14px;
+    transition: all 0.5s ease;
+}
+
+
+.form-group {
+    margin: 1rem;
+}
+.text-muted {
+    font-size: 12px;
+}
+.btn {
+    width: 100%;
+    letter-spacing: .3rem;
+    font-size: 20px;
+}
+
+#contact1 button[type="submit"] {
+	cursor:pointer;
+	width:50%;
+	background: #77BFC7;
+	color:#000;
+	margin:0 120px 5px;
+	font-size:15px;
+}
+
+#contact1 button[type="submit"]:hover {
+	background: #E3E4FA;
+	transition:background-color 0.3s ease-in-out;
+}
+
+#contact1 input[type="text"], 
+#contact1 input[type="email"], 
+#contact1 input[type="tel"],
+#contact1 textarea {
+	width:100%;
+	border:1px solid #CCC;
+	background:#FFF;
+	margin:0 0 5px;
+	padding:10px;
+}
+
+#contact1 {
+	background: url(images/sky1.png);
+	background-size: cover;
+	padding:25px;
+}
+
+#contact1 h2 {
+	color: #4863A0;
+	display: block;
+	font-size: 30px;
+	text-align: center;
+}

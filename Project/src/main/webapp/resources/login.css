@@ -1,0 +1,132 @@
+.navbar {
+	background:#fff;
+	font-weight: 200;
+	box-shadow: 0 .5rem .5rem rgba(0,0,0,0.5);
+	padding:0;
+}
+
+body {
+    background: url(images/sky1.png) no-repeat;
+    background-size: 100% 90%;
+    margin-top: 2rem;
+}
+
+#login-form
+{
+    display: block;
+}
+.form-box
+{
+    width:700px;
+    height: 740px;
+    position:relative;
+    margin:7% auto;
+    background: rgba(135, 206, 235,0.4);
+    padding:10px;
+    overflow: hidden;
+    box-shadow: 0 .5rem .5rem rgba(0,0,0,0.5);
+}
+.button-box
+{
+    width:220px;
+    margin:35px auto;
+    position:relative;
+    
+    border-radius: 30px;
+}
+.toggle-btn
+{
+    padding: 26px;
+    cursor:pointer;
+    background:transparent;
+    border:0;
+    outline: none;
+    position: relative;
+}
+#btn
+{
+    top: 10px;
+    left: 0;
+    position: absolute;
+    width: 100px;
+    height: 80%;
+    background: white;
+    border-radius: 30px;
+    transition: .5s;
+}
+.input-group-login
+{
+    position:absolute;
+    width:280px;
+    transition:.5s;
+}
+.input-group-register
+{
+    position:absolute;
+    width:280px;
+    transition:.5s;
+}
+.input-field
+{
+    width: 100%;
+    padding:10px 0;
+    margin:5px 0;
+    border-left:0;
+    border-top:0;
+    border-right:0;
+    border-bottom: 1px solid #999;
+    outline:none;
+    background: transparent;
+}
+.submit-btn
+{
+    width: 85%;
+    padding: 10px 30px;
+    cursor: pointer;
+    display: block;
+    margin: auto;
+    background: white;
+    border: 0;
+    outline: none;
+    border-radius: 30px;
+}
+.check-box
+{
+    margin: 30px 10px 34px 0;
+}
+span
+{
+    color:#777;
+    font-size:12px;
+    bottom:87px;
+    position:absolute;
+}
+#login
+{
+    left:210px;
+}
+#login input
+{
+    color:white;
+    font-size:15;
+}
+
+#error_message{
+    margin-bottom: 20px;
+    background: #fa3243;
+    border-radius: 30px;
+    padding: 0px;
+    text-align: center;
+    font-size: 14px;
+    transition: all 0.5s ease;
+}
+
+#register
+{
+    left:710px;
+}
+#register input
+{
+    color:white;
+    font-size: 15;
+}
