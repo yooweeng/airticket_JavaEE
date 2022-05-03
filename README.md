@@ -2,20 +2,18 @@
 
 ## Home page
 The landing page, with scrolling effect using javascript.
-![image](https://user-images.githubusercontent.com/96167642/166431823-7a8f6dbc-1221-4397-87c8-36dbcf22b360.png)
-
-![image](https://user-images.githubusercontent.com/96167642/166432101-9bdd71f2-e6ec-42dc-82b5-e609f11737f8.png)
+![home](https://user-images.githubusercontent.com/96167642/166437670-6ece2133-dab6-44d7-ad28-b22c689d49ff.gif)
 
 ## View Schedule Page
 This page displays the schedule of planes available in our service.
-![image](https://user-images.githubusercontent.com/96167642/166432309-91ae22c4-aef5-47b2-b68c-9888ee1e7149.png)
+![flightschedule](https://user-images.githubusercontent.com/96167642/166438088-0bcd49a8-81fa-4ead-8707-3da202c4f0fb.gif)
 
 ## Contact Us Page
 ![image](https://user-images.githubusercontent.com/96167642/166432392-0798b02f-2382-4f4d-8a7a-0a4d87614726.png)
 
 ## Login/Register Page
 User can login or register an account through this page.
-![image](https://user-images.githubusercontent.com/96167642/166432585-8dbc096d-09ca-4367-b5d7-f915674ac713.png)
+![login](https://user-images.githubusercontent.com/96167642/166437878-2373ccf5-eb6a-409b-88b8-58745c834ebf.gif)
 
 ## Account Details Page
 User can edit their personal account from this page. <br />
@@ -24,7 +22,7 @@ User can also delete their account from the database for CRUD functionality purp
 
 ## Seat Selection Page
 User can select and reserve seats for an airplane.
-![image](https://user-images.githubusercontent.com/96167642/166432891-67a777ec-325b-402d-8715-3bf189f391af.png)
+![viewschedule](https://user-images.githubusercontent.com/96167642/166438682-31fa313b-68f5-44cf-8c15-e790089a0ab2.gif)
 
 ## View Booking Page
 User can view their reserved tickets on the page. <br />
