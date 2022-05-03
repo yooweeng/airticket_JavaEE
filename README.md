@@ -1,9 +1,9 @@
 # Air Ticket Reservation Application (JavaEE)
 
 ## Home page
-The landing page, with scrolling effect using javascript.
+The landing page, with scrolling effect using javascript.<br />
 ![home](https://user-images.githubusercontent.com/96167642/166437670-6ece2133-dab6-44d7-ad28-b22c689d49ff.gif)
-<br/>
+
 
 ## View Schedule Page
 This page displays the schedule of planes available in our service.
