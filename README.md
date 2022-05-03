@@ -23,7 +23,7 @@ User can login or register an account through this page.
 User can edit their personal account from this page. <br />
 User can also delete their account from the database for CRUD functionality purposes.
 
-![image](https://user-images.githubusercontent.com/96167642/166432715-8e1dcf63-f0be-4fdf-8484-029170ebce8a.png)
+![editaccount](https://user-images.githubusercontent.com/96167642/166439660-a5e7cc7f-5536-46bf-aafe-05a38e44fec9.gif)
 
 ## Seat Selection Page
 User can select and reserve seats for an airplane.
